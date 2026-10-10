@@ -6,7 +6,7 @@ The repositories include methodological references and research tools, empirical
 
 ---
 
-## Libaries, Methods & Tools
+## Libraries, Methods & Tools
 
 Resources combining mathematical theory, computational methods, and empirical applications.
 
